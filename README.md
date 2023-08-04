@@ -5,14 +5,14 @@ Gerenciamento de Vendas
 ## Criação do projeto
 
 1. ```BASH
-    npm create vite@latest
-    ```
+   npm create vite@latest
+   ```
 
 ## Para rodar o projeto
 
 1. ```BASH
-    npm run dev
-    ```
+   npm run dev
+   ```
 
 ## ESLint + Prettier
 
