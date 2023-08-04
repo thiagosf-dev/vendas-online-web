@@ -4,9 +4,15 @@ Gerenciamento de Vendas
 
 ## Criação do projeto
 
-```BASH
-npm create vite@latest
-```
+1. ```BASH
+    npm create vite@latest
+    ```
+
+## Para rodar o projeto
+
+1. ```BASH
+    npm run dev
+    ```
 
 ## ESLint + Prettier
 
@@ -24,7 +30,7 @@ npm create vite@latest
    ```
 
 1. ```BASH
-   npm i @types/styled-component
+   npm i -D @types/styled-components
    ```
 
 ## Ant Design
